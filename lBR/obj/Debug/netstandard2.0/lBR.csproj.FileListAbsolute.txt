@@ -1,0 +1,9 @@
+D:\Shit\CLASSTEST\CLS\lBR\bin\Debug\netstandard2.0\lBR.deps.json
+D:\Shit\CLASSTEST\CLS\lBR\bin\Debug\netstandard2.0\lBR.dll
+D:\Shit\CLASSTEST\CLS\lBR\bin\Debug\netstandard2.0\lBR.pdb
+D:\Shit\CLASSTEST\CLS\lBR\obj\Debug\netstandard2.0\lBR.csprojAssemblyReference.cache
+D:\Shit\CLASSTEST\CLS\lBR\obj\Debug\netstandard2.0\lBR.csproj.CoreCompileInputs.cache
+D:\Shit\CLASSTEST\CLS\lBR\obj\Debug\netstandard2.0\lBR.AssemblyInfoInputs.cache
+D:\Shit\CLASSTEST\CLS\lBR\obj\Debug\netstandard2.0\lBR.AssemblyInfo.cs
+D:\Shit\CLASSTEST\CLS\lBR\obj\Debug\netstandard2.0\lBR.dll
+D:\Shit\CLASSTEST\CLS\lBR\obj\Debug\netstandard2.0\lBR.pdb
